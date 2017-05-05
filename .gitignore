@@ -2,8 +2,8 @@ node_modules
 .sass-cache
 npm-debug.log
 .idea
-dist
-lib
+#dist
+#lib
 tmp
 coverage
 docs-site/bundle.js
