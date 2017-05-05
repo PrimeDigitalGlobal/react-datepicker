@@ -48,6 +48,11 @@ type: `string`
 defaultValue: `'MMMM YYYY'`
 
 
+### `dayClassName`
+
+type: `func`
+
+
 ### `disabled`
 
 type: `bool`
